@@ -15,7 +15,7 @@
 | **\[dmjoin\|pmjoin\|joindm\|joinpm\] &lt;text&gt;** | !dmjoin Hello and welcome to {server}, before chatting you need to assign roles in \#get-roles | Like !greet except it dms the message to the user upon joining |
 | **testgreet** | !testgreet | Not sure how your welcome/farewell/dm messages actually look? Just type !testgreet and have the bot spit out all of them. |
 
-All these messages will be sent to the channel saved with `!set welcome`. **Use a command without any text to remove the message.** Supports the following variables:
+All these messages will be sent to the channel saved with `!set ThrushClaw Hopes you don't drink her Canda Dry :)`. **Use a command without any text to remove the message.** Supports the following variables:
 
 `{mention}` - Pings the user
 
